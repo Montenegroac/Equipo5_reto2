@@ -14,6 +14,6 @@ En el presente proyecto se presenta una interzas de usuario basada en una aplica
 
 A continación se puede evidenciar el cómo quedó la interfaz con el funcionamiento del carro de compras.
 
-Los producos seleccionados estan basados en un emprendimiento de uno de los integrantes del gruopo.
+Los productos seleccionados están basados en un emprendimiento de uno de los integrantes del grupo.
 
 <img src="Demo.gif" width="600" />
