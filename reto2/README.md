@@ -1,16 +1,19 @@
-# reto2
+# Reto2
 
-A new Flutter project.
+Equipo 5
+Integrantes:
+Angela Castrillon Soto.
+Andrea Chacon Plazas.
+Jose Guzman Cespedes.
+Harold Feria Murillo.
+Cristian Montenegro Aguirre.
 
-## Getting Started
+En el presente proyecto se presenta una interzas de usuario basada en una aplicación de qie maneje un carrito de compras. 
 
-This project is a starting point for a Flutter application.
+## Demo
 
-A few resources to get you started if this is your first Flutter project:
+A continación se puede evidenciar el cómo quedó la interfaz con el funcionamiento del carro de compras.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Los producos seleccionados estan basados en un emprendimiento de uno de los integrantes del gruopo.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="Demo.gif" width="600" />
